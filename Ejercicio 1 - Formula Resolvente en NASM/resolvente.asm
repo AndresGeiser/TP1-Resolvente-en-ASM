@@ -14,7 +14,7 @@
     %define dos_por_a qword [ebp-16]
 
 section .data 
-    menoscuatro: dw -4
+    menoscuatro dw -4
    
 section .text ;Codigo a ejecutar
 global cuadratica
