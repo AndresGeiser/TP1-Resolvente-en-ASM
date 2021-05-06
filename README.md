@@ -7,7 +7,7 @@ cuadrática a través de la fórmula resolvente. Los coeficientes a, b y c de la
 deben ser recibidos por parámetro. Considerar que estos podrían tomar valores de
 punto flotante o no.
 
-**Resolución**: Para la ejecución de la resolución del ejercicio se realizó un script bash que se encarga de compilar el código y enlazar el código de los archivos .c y .asm de manera automática, generando un archivo ejecutable en el cual se realiza un pasaje de parámetros de los valores ingresados a una función desarrollada en lenguaje ensamblador **NASM**, utilizando las instrucciones que nos brinda la **FPU** y luego son mostrados por pantalla los resultados obtenidos desde **C**.
+**Resolución**: Para la ejecución de la resolución del ejercicio se realizó un script bash que se encarga de compilar el código y enlazar el código de los archivos **.c** y **.asm** de manera automática, generando un archivo ejecutable en el cual se realiza un pasaje de parámetros de los valores ingresados a una función desarrollada en lenguaje ensamblador **NASM**, utilizando las instrucciones que nos brinda la **FPU** y luego son mostrados por pantalla los resultados obtenidos desde **C**.
 
 **Ejecutar el programa mediante Bash**:
 Para ejecutar el programa mediante el script bash es importante asignar permisos al archivo. Para ello debemos ingresar por terminal ```chmod +x /ejercicio1.sh``` de esta forma podremos ejecutarlo mediante el comando ```./ejercicio1.sh```. 
@@ -37,6 +37,9 @@ Como indica el mensaje mostrado en pantalla, podemos volver a ejecutar el progra
 
 ![image](https://user-images.githubusercontent.com/54609896/117233538-ad3f4980-adf9-11eb-8115-75289f4ebdbe.png)
 
+Finalmente, podemos ingresar **NO**/**N** para finalizar la ejecución del programa y retornar a la terminal:
+
+![image](https://user-images.githubusercontent.com/54609896/117234699-e11b6e80-adfb-11eb-9e21-366f599e7d08.png)
 
 
 
