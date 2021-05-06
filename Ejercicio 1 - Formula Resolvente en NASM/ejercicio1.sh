@@ -29,7 +29,7 @@ elif [[ $respuesta == N || $respuesta == NO || $respuesta == n ]]; then
 
             sleep 1.5s
             printf "\033c"
-            break 
+            exit 
 else 
             echo "Ingrese una opción correcta -> (S/N)"    
             echo ""           
