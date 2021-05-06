@@ -15,5 +15,12 @@ Para ejecutar el programa mediante el script bash es importante asignar permisos
 ![image](https://user-images.githubusercontent.com/54609896/116950958-f908bc00-ac5c-11eb-9bb1-3cbdf86d83a4.png)
 Seguido de ello se nos mostrará el siguiente menú donde podemos ingresar los valores numéricos para obtener las raices de la función requerida (el formato de los números de punto flotante es, por ejemplo **1.5**), como primer prueba ingresaremos numeros enteros (**1**, **-9** y **8**):
 
+Deberíamos obtener las siguientes raíces:
+
+![image](https://user-images.githubusercontent.com/54609896/117232518-b29b9480-adf7-11eb-9fe9-2c018ad68dd0.png)
+
+Ingresamos los valores para a, b y c:
+
 ![image](https://user-images.githubusercontent.com/54609896/117231824-62700280-adf6-11eb-85b7-da64e98cb239.png)
+
 
