@@ -11,8 +11,8 @@ int main()
   printf("\n\t\t_________________________________________\n\n\n");
   printf("\t\t\tIngresa el valor de a --> ");
   scanf("%lf", &a);
-  while(a==0){
-  printf("\t\tEl valor de a no puede ser 0, ingresa nuevamente -->");
+  while(a<=0){
+  printf("\t\tEl valor de a no puede ser menor o igual a 0, ingresa nuevamente -->");
   scanf("%lf", &a);
   }
   printf("\t\t\tIngresa el valor de b --> ");
