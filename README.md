@@ -29,6 +29,12 @@ Verificamos, que las raíces obtenidas son correctas:
 
 Como indica el mensaje mostrado en pantalla, podemos volver a ejecutar el programa ingresando **SI**/**S**. Probemos entonces, que el programa calcula las raices para números en punto flotante (a = 1.2, b = -9.58 y c = 8.3):
 
+Los valores que deberíamos obtener son:
+
+![image](https://user-images.githubusercontent.com/54609896/117233844-453d3300-adfa-11eb-8dd7-dfed92a5de9d.png)
+
+Comprobamos:
+
 ![image](https://user-images.githubusercontent.com/54609896/117233538-ad3f4980-adf9-11eb-8115-75289f4ebdbe.png)
 
 
